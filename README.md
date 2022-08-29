@@ -8,3 +8,4 @@ Features:
 3. Edit list feature
 4. Delete list feature
 5. Search list feature
+6. Complete/incomplete feature
